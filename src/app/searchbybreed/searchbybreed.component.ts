@@ -8,6 +8,8 @@ import { HttpClient } from '@angular/common/http';
 })
 export class SearchbybreedComponent implements OnInit {
 
+  private pizza : Array<any> | undefined;
+  
   constructor(private http: HttpClient) { }
 
   /*Converti directement en nombre d'étoiles en lui passant un nombre*/
