@@ -1,0 +1,17 @@
+#main
+{
+    width: 100%;
+    text-align: center;
+}
+
+#imageWrapper
+{
+    width: 100%;
+    text-align: center;
+}
+
+#refresh
+{
+    margin-bottom: 10px;
+    margin-top: 40px;
+}

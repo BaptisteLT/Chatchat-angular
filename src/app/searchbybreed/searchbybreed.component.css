@@ -1,0 +1,18 @@
+#main
+{
+    width: 100%;
+    text-align: center;
+}
+
+#imageWrapper
+{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#searchWrapper
+{
+    margin-top: 50px;
+}
+
